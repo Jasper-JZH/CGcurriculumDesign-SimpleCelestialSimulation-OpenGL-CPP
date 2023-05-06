@@ -1,0 +1,8 @@
+﻿  Application.cpp
+C:\Codes\LocalGitRes\SimpleCelestialSimulation\SimpleCelestialSimulation\src\Application.cpp(396,33): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  stb_image.cpp
+C:\Codes\LocalGitRes\SimpleCelestialSimulation\SimpleCelestialSimulation\src\stb_image.cpp(2,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  正在生成代码...
+  glad.c
+  LINK : 没有找到 C:\Codes\LocalGitRes\SimpleCelestialSimulation\x64\Debug\SimpleCelestialSimulation.exe 或上一个增量链接没有生成它；正在执行完全链接
+  SimpleCelestialSimulation.vcxproj -> C:\Codes\LocalGitRes\SimpleCelestialSimulation\x64\Debug\SimpleCelestialSimulation.exe
